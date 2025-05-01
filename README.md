@@ -29,12 +29,10 @@ This is a [Platform IO IDE](https://platformio.org/platformio-ide) project coded
 ![Image](https://github.com/user-attachments/assets/55934be4-e4af-468f-8c19-61007b0bced9)
 
 ## Bluetooth controller
-The car is controlled by a [free Android App](https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar&pcampaignid=web_share) (Bluetooth connection is displayed as "HC-05"):
-<img src="https://github.com/vitorccs/bluetooth-rc-car/assets/9891961/93d25180-f532-4717-aa7c-2c25e38c2414" width="550">
-
-Once installed the app, map the buttons code as shown below:
-
-<img src="https://github.com/vitorccs/bluetooth-rc-car/assets/9891961/4e0d08ae-a4e4-4613-90cf-5a586280fb27" width="550">
+* Download and install the [free Android app called "Arduino Car"](https://play.google.com/store/apps/details?id=com.electro_tex.bluetoothcar&pcampaignid=web_share) <img src="https://github.com/vitorccs/bluetooth-rc-car/assets/9891961/93d25180-f532-4717-aa7c-2c25e38c2414" width="550">
+* Find and connect to the Bluetooth device called "HC-05" (if asked for a password, type 1234 or 0000)
+* Once installed the app, map the buttons code as shown in the picture <img src="https://github.com/vitorccs/bluetooth-rc-car/assets/9891961/4e0d08ae-a4e4-4613-90cf-5a586280fb27" width="550">
+* I recommend to change the controller joystick type to "Analog"
 
 ## Components
 * 01 - 4WD Car Chassis with steering (see section below)

@@ -1,6 +1,9 @@
 # Bluetooth RC Car (4WD)
 Bluetooth remote-controlled 4WD car using an Arduino Nano v3 board with steering performed by a servo motor
 
+Also published at
+https://www.instructables.com/Arduino-Bluetooth-RC-Car-1/
+
 ### With L298N
 <img src="https://github.com/user-attachments/assets/4f2cbef3-492f-4302-8aa4-057da90a90c8" width="400">
 <img src="https://github.com/user-attachments/assets/fadf9f43-9b2a-44ee-9892-cfe2dd71daae" width="400">
@@ -9,7 +12,6 @@ Bluetooth remote-controlled 4WD car using an Arduino Nano v3 board with steering
 <img src="https://github.com/user-attachments/assets/05052b51-076b-4768-9a88-918afed03c8b" width="400">
 <img src="https://github.com/user-attachments/assets/6a332693-4862-4871-be10-9b9c51cf525d" width="400">
 <img src="https://github.com/user-attachments/assets/a88e518d-d366-4d8d-bff3-fa5197b49029" width="400">
-
 
 ## Recording
 Note: enable the sound by clicking on the speaker icon from the video toolbar
